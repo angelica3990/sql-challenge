@@ -1,8 +1,11 @@
 # sql-challenge
-Data Analysis
-List the employee number, last name, first name, sex, and salary of each employee.
+Data Analysis:
 
-List the first name, last name, and hire date for the employees who were hired in 1986.
+1. List the employee number, last name, first name, sex, and salary of each employe
+![q1](https://user-images.githubusercontent.com/62813833/209008865-0a96650c-c85e-49d2-aa35-8223d07ca6c3.png)
+e.
+
+2. List the first name, last name, and hire date for the employees who were hired in 1986.
 
 List the manager of each department along with their department number, department name, employee number, last name, and first name.
 
