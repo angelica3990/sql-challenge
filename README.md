@@ -1,5 +1,13 @@
-# sql-challenge
-Data Analysis:
+## Instructions
+This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
+
+#### Data Modeling
+Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
+
+#### Data Engineering
+Use the provided information to create a table schema for each of the six CSV files. Import each CSV file into its corresponding SQL table.
+
+#### Data Analysis:
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
